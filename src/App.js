@@ -7,7 +7,7 @@ import Home from './pages/Home';
 function App() {
   return (
     <div className="App">
-      <BrowserRouter basename="/twilio-practice">
+      <BrowserRouter>
       <div>
         <Link to='/screenrecording'>ScreenRecording</Link>
       </div>
