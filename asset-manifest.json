@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/twilio-practice/static/css/main.834aaf63.css",
-    "main.js": "/twilio-practice/static/js/main.35a81ebb.js",
+    "main.js": "/twilio-practice/static/js/main.b206fbc8.js",
     "static/js/787.e61912d1.chunk.js": "/twilio-practice/static/js/787.e61912d1.chunk.js",
     "static/media/logo.svg": "/twilio-practice/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/twilio-practice/index.html",
     "main.834aaf63.css.map": "/twilio-practice/static/css/main.834aaf63.css.map",
-    "main.35a81ebb.js.map": "/twilio-practice/static/js/main.35a81ebb.js.map",
+    "main.b206fbc8.js.map": "/twilio-practice/static/js/main.b206fbc8.js.map",
     "787.e61912d1.chunk.js.map": "/twilio-practice/static/js/787.e61912d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.834aaf63.css",
-    "static/js/main.35a81ebb.js"
+    "static/js/main.b206fbc8.js"
   ]
 }
